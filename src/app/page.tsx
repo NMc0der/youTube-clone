@@ -1,7 +1,11 @@
 import Image from "next/image";
+import { PageHeader } from "./components/PageHeader";
 
 export default function Home() {
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]"></div>
+    <div className="max-h-screen flex flex-col">
+      <PageHeader />
+      <div className="gird grid-cols-[auto,1fr] flex-grow-1 overflow-auto"></div>
+    </div>
   );
 }
