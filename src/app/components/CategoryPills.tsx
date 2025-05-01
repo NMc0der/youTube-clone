@@ -51,16 +51,16 @@ const CategoryPills = ({
               selectedCategory === category
                 ? "bg-neutral-900 text-white"
                 : "bg-neutral-200 hover:bg-neutral-300"
-            } whitespace-nowrap bg-neutral-200  text-center cursor-pointer`}
+            } whitespace-nowrap bg-neutral-200  text-center cursor-pointer transition-transform`}
             style={{ transform: `translateX(-${translate}px)` }}
           >
             {category}
           </button>
         ))}
 
-        <button className="inline py-1 px-3 rounded-lg whitespace-nowrap bg-neutral-200 hover:bg-neutral-300 text-center cursor-pointer">
+        {/* <button className="inline py-1 px-3 rounded-lg whitespace-nowrap bg-neutral-200 hover:bg-neutral-300 text-center cursor-pointer">
           JavaScript
-        </button>
+        </button> */}
       </div>
       {isLeftVisible && (
         <div className=" absolute left-0 top-1/2 -translate-y-51/100 bg-gradient-to-r from-white from-50% to-transparent w-24 h-full">
@@ -84,10 +84,9 @@ const CategoryPills = ({
             onClick={() => {
               setTranslate((translate) => {
                 if (containerRef.current == null) {
-                  console.log("hii");
                   return translate;
                 }
-                console.log("yo");
+
                 const newTranslate = translate + TrasnlateAmount;
                 const edge = containerRef.current.scrollWidth;
                 const width = containerRef.current.clientWidth;
@@ -97,7 +96,7 @@ const CategoryPills = ({
                 return newTranslate;
               });
             }}
-            className="h-full aspect-square w-auto p-1.5 "
+            className="h-full aspect-square w-auto p-1.5 cursor-pointer"
           >
             <ChevronRight />
           </button>
