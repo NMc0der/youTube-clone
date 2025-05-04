@@ -44,13 +44,7 @@ function VideoGridItem({
         </div>
       </a>
       <div className="flex gap-2">
-        <a href={`/@${channel.id}`} className="flex-shrink-0">
-          <img
-            className="w-12 h-12 rounded-full"
-            src={channel.profileUrl}
-            alt=""
-          />
-        </a>
+        <a href={`/@${channel.id}`} className="flex-shrink-0"></a>
         <div className="flex flex-col">
           <a href={`/watch?v=${id}`} className="font-bold">
             {title}

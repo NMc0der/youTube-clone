@@ -41,7 +41,10 @@ const CategoryPills = ({
   }, [categories, translate]);
 
   return (
-    <div ref={containerRef} className="overflow-x-hidden relative ">
+    <div
+      ref={containerRef}
+      className="overflow-x-hidden overflow-y-hidden relative "
+    >
       <div className="flex whitespace-nowrap gap-3 transition-transform w-[max-content]">
         {categories.map((category) => (
           <button

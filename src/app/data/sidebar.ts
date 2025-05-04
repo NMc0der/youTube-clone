@@ -14,10 +14,16 @@ export const subscriptions = [
       "https://yt3.googleusercontent.com/ytc/APkrFKb--NH6RwAGHYsD3KfxX-SAgWgIHrjR5E4Jb5SDSQ=s176-c-k-c0x00ffffff-no-rj",
   },
   {
-    channelName: "Caleb Curry",
-    id: "CalebCurry",
+    channelName: "NBA",
+    id: "NBA",
     imgUrl:
-      "https://yt3.googleusercontent.com/ytc/APkrFKbpSojje_-tkBQecNtFuPdSCrg3ZT0FhaYjln9k0g=s176-c-k-c0x00ffffff-no-rj",
+      "https://images.seeklogo.com/logo-png/18/2/nba-national-basketball-association-logo-png_seeklogo-188902.png",
+  },
+  {
+    channelName: "PlayStation",
+    id: "PlayStation",
+    imgUrl:
+      "https://download.logo.wine/logo/PlayStation/PlayStation-Logo.wine.png",
   },
   {
     channelName: "Web Dev Simplified",
@@ -26,21 +32,15 @@ export const subscriptions = [
       "https://yt3.ggpht.com/ytc/APkrFKZWeMCsx4Q9e_Hm6nhOOUQ3fv96QGUXiMr1-pPP=s48-c-k-c0x00ffffff-no-rj",
   },
   {
-    channelName: "Kevin Powell",
-    id: "KevinPowell",
+    channelName: "PewDiePie",
+    id: "PewDiePie",
     imgUrl:
-      "https://yt3.ggpht.com/ytc/APkrFKa6XiLa13mMVPzkmmTBcgNPjjqCGPrY86KfJFmf5w=s48-c-k-c0x00ffffff-no-rj",
+      "https://ih1.redbubble.net/image.2334848365.3187/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
   },
   {
-    channelName: "Sonny Sangha",
-    id: "SonnySangha",
+    channelName: "MrBeast",
+    id: "MrBeast",
     imgUrl:
-      "https://yt3.ggpht.com/FjeN785fVWx0Pr6xCbwPhhq8hHj_gocc3FygDXYDEQgp2gE_FQzRNsFHFAjQ3oE-VJaeGR1a=s68-c-k-c0x00ffffff-no-rj",
-  },
-  {
-    channelName: "Traversy Media",
-    id: "TraversyMedia",
-    imgUrl:
-      "https://yt3.googleusercontent.com/ytc/APkrFKYcYswt_UhD7D0j6ddiQz6Gb8Q_vSJOjhYI0CoXSw=s176-c-k-c0x00ffffff-no-rj-mo",
+      "https://yt3.googleusercontent.com/nxYrc_1_2f77DoBadyxMTmv7ZpRZapHR5jbuYe7PlPd5cIRJxtNNEYyOC0ZsxaDyJJzXrnJiuDE=s900-c-k-c0x00ffffff-no-rj",
   },
 ];
