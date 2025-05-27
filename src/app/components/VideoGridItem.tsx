@@ -14,7 +14,7 @@ type VideoGridItemProps = {
   postedAt: Date;
   duration: number;
   thumbnailUrl: string;
-  videoUrl: string;
+  // videoUrl: string;
 };
 
 const viewFormatter = Intl.NumberFormat(undefined, {
@@ -29,8 +29,8 @@ function VideoGridItem({
   postedAt,
   duration,
   thumbnailUrl,
-  videoUrl,
-}: VideoGridItemProps) {
+}: // videoUrl,
+VideoGridItemProps) {
   return (
     <div className="flex flex-col gap-2">
       <a href={`/watch?v=${id}`} className="relative aspect-video">

@@ -161,6 +161,8 @@ export const videos = [
     channel: {
       name: "HopeScope",
       id: "HopeScope",
+      profileUrl:
+        "https://i.ytimg.com/vi/huywVCJvqn4/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAbzS_20iozkWDpCQoCSLl6xf_meA",
     },
     views: 1043378,
     postedAt: new Date("2024-09-09"),
@@ -176,6 +178,8 @@ export const videos = [
     channel: {
       name: "Mr.Bricks",
       id: "Mr.Bricks",
+      profileUrl:
+        "https://i.ytimg.com/vi/toceydVI_T8/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAXUCq1_4frb1upEc9plqQJgkmm6g",
     },
     views: 3293759,
     postedAt: new Date("2024-04-23"),
@@ -189,6 +193,8 @@ export const videos = [
     channel: {
       name: "Taskmaster",
       id: "Taskmaster",
+      profileUrl:
+        "https://i.ytimg.com/vi/NE3uOVVjB98/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDMlsd2CNc5xfkt1lgY3d8tX8-X2w",
     },
     views: 1130491,
     postedAt: new Date("2025-04-23"),
@@ -202,6 +208,8 @@ export const videos = [
     channel: {
       name: "Jordan Matter",
       id: "JordanMatter",
+      profileUrl:
+        "https://i.ytimg.com/vi/DqCtwpT1Z50/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCV1J3QJzMrEdDqUzEcxNDo3UEyTw",
     },
     views: 5130491,
     postedAt: new Date("2025-02-23"),
@@ -215,6 +223,8 @@ export const videos = [
     channel: {
       name: "Mrwhosenttheboss",
       id: "Mrwhosenttheboss",
+      profileUrl:
+        "https://i.ytimg.com/vi/T_3O1FCxS5Q/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5sc-NNYk9uFGyGDDBZItc7I_stQ",
     },
     views: 2230491,
     postedAt: new Date("2025-01-23"),
@@ -228,6 +238,8 @@ export const videos = [
     channel: {
       name: "CboysTV",
       id: "CboysTV",
+      profileUrl:
+        "https://i.ytimg.com/vi/AOaDIy9sttk/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC1uWxHprNfk_6rPIZdOQv5hp65-g",
     },
     views: 1730491,
     postedAt: new Date("2025-02-23"),
@@ -241,6 +253,8 @@ export const videos = [
     channel: {
       name: "Unspeakable",
       id: "Unspeakable",
+      profileUrl:
+        "https://i.ytimg.com/vi/OcpVNIrpO4Y/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLASU_EdA-2834UQbvPVnTNMXNmNbQ",
     },
     views: 430491,
     postedAt: new Date("2025-04-13"),
@@ -254,6 +268,8 @@ export const videos = [
     channel: {
       name: "The Ninja Fam!",
       id: "TheNinjaFam!",
+      profileUrl:
+        "https://i.ytimg.com/vi/B9eppKEFYMs/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCFsaBYeBGH6Mlu_l6fmoN_yZcapA",
     },
     views: 970491,
     postedAt: new Date("2025-01-22"),
@@ -267,6 +283,8 @@ export const videos = [
     channel: {
       name: "How Ridiculous",
       id: "HowRidiculous",
+      profileUrl:
+        "https://i.ytimg.com/vi/xfRKIZIpzIc/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCB-3D435IZomok9Edu4pwCaTLDgw",
     },
     views: 760491,
     postedAt: new Date("2024-08-13"),
@@ -280,6 +298,8 @@ export const videos = [
     channel: {
       name: "ScrapLifeLee",
       id: "ScrapLifeLee",
+      profileUrl:
+        "https://i.ytimg.com/vi/yDhvBUy5Tpc/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA4xIV9c3YxQUKC014KTQww22E1Hw",
     },
     views: 628091,
     postedAt: new Date("2024-03-13"),
@@ -293,6 +313,8 @@ export const videos = [
     channel: {
       name: "BANDAI NAMCO Europe",
       id: "BANDAINAMCOEurope",
+      profileUrl:
+        "https://i.ytimg.com/vi/p2uYT8BQefA/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBNxKcHNHoKUWPzXzwEFj_WjkN5Kw",
     },
     views: 762091,
     postedAt: new Date("2025-04-28"),
@@ -306,6 +328,8 @@ export const videos = [
     channel: {
       name: "TD BRICKS",
       id: "TDBRICKS",
+      profileUrl:
+        "https://i.ytimg.com/vi/q3Zxohz2gO0/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCg1PNV-24tGKpNzsHYU2gC63Yrew",
     },
     views: 9222091,
     postedAt: new Date("2025-02-28"),
