@@ -1,3 +1,6 @@
+import nbaPhoto from "@/app/assets/SidebarImages/nba-national-basketball-association-logo-png_seeklogo-188902.png";
+// "https://yt3.googleusercontent.com/ytc/APkrFKb--NH6RwAGHYsD3KfxX-SAgWgIHrjR5E4Jb5SDSQ=s176-c-k-c0x00ffffff-no-rj"
+// "https://images.seeklogo.com/logo-png/18/2/nba-national-basketball-association-logo-png_seeklogo-188902.png"
 export const playlists = [
   { id: "1", name: "Running" },
   { id: "2", name: "Comedy" },

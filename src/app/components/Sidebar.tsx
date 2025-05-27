@@ -1,6 +1,7 @@
 "use client";
 
 import React, { ElementType, ReactNode, useState } from "react";
+import { StaticImageData } from "next/image";
 import {
   ChevronDown,
   ChevronUp,
@@ -268,6 +269,8 @@ function LargeSidebarItem({
         <img src={IconOrImgUrl} alt="" className="w-6 h-6 rounded-full" />
       ) : (
         <IconOrImgUrl className="w-6 h-6" />
+        // <img src={IconOrImgUrl} alt="" />
+        // <div>yo</div>
       )}
       <div className="whitespace-nowrap overflow-hidden text-ellipsis">
         {title}

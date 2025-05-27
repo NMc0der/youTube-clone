@@ -1,18 +1,18 @@
-import React from "react";
+// import React from "react";
 
-import { cva, VariantProps } from "class-variance-authority";
+// import { cva, VariantProps } from "class-variance-authority";
 
-// type ButtonProps = VariantProps<typeof buttonStyles> & ComponentProps<"button">;
+// // type ButtonProps = VariantProps<typeof buttonStyles> & ComponentProps<"button">;
 
-function Button({ children }) {
-  return (
-    <button className="rounded-full  w-10 h-10 flex items-center justify-center p-2.5">
-      {children}
-    </button>
-  );
-}
+// function Button({ children }) {
+//   return (
+//     <button className="rounded-full  w-10 h-10 flex items-center justify-center p-2.5">
+//       {children}
+//     </button>
+//   );
+// }
 
-export default Button;
+// export default Button;
 
 // export const buttonStyles = cva(["transition-colors"], {
 //     variants: {
